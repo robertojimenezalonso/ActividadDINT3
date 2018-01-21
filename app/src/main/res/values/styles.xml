@@ -1,5 +1,9 @@
 <resources>
 
+    /**
+    * Declaro los colores de fondo y de elementos de 3 de los fragment que he creado
+    *Declaro el tamaño de la letra de texto
+    */
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
