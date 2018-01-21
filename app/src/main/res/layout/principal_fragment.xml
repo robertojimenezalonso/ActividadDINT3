@@ -10,6 +10,10 @@
     android:theme="@style/AppTheme.Parte2"
     android:visibility="visible"
     tools:context="com.example.roberto.actividaddint3.fragmentPrincipal">
+    /**
+    * En el texto le paso el contenido por un string
+    *El color de fondo se lo paso desde colors.xml
+    */
 
     <TextView
         android:id="@+id/txtHello"

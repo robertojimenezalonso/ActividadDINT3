@@ -8,7 +8,9 @@
     tools:showIn="@layout/activity_main"
     android:theme="@style/AppTheme.Parte1"
     >
-
+    /**
+    * En todos textos de los botones, textos, y textos editables, le paso el contenido por un string
+    */
     <TextView
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
@@ -50,3 +52,4 @@
         app:layout_constraintTop_toTopOf="parent"/>
 
 </android.support.constraint.ConstraintLayout>
+

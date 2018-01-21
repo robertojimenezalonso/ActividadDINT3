@@ -9,6 +9,9 @@
     tools:showIn="@layout/activity_main"
     android:theme="@style/AppTheme.Parte2"
     >
+    /**
+    * En todos textos de los botones, textos, y textos editables, le paso el contenido por un string
+    */
 
     <TextView
         android:id="@+id/textView2"

@@ -10,6 +10,10 @@
 
     tools:showIn="@layout/activity_main">
 
+    /**
+    * En todos textos de los botones, textos, y textos editables, le paso el contenido por un string
+    */
+
     <TextView
         android:id="@+id/textView3"
         android:layout_width="339dp"

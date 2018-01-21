@@ -19,8 +19,11 @@
         android:layout_width="match_parent"
         android:layout_height="620dp"
         tools:layout_editor_absoluteY="29dp" />
-
+    /**
+    * Cambio el icono del btn inferior derecho con: srcCompat
+    */
     <android.support.design.widget.FloatingActionButton
+
         android:id="@+id/btn"
         android:layout_width="50dp"
         android:layout_height="43dp"
