@@ -13,8 +13,54 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:colorBackground">@color/colorPrimary</item>
+
+    </style>
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="AppTheme.Parte1" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:windowBackground">@color/color1</item>
+        <item name="android:textColorPrimary">@color/color2</item>
+        <item name="colorButtonNormal">@color/color3</item>
+        <item name="colorSwitchThumbNormal">@color/color4</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:background">@color/background1</item>
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">false</item>
+
+
+    </style>
+
+    <style name="AppTheme.Parte2" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:windowBackground">@color/color5</item>
+        <item name="android:textColorPrimary">@color/color6</item>
+        <item name="colorButtonNormal">@color/color7</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textSize">11sp</item>
+        <item name="colorSwitchThumbNormal">@color/color8</item>
+        <item name="android:background">@color/background2</item>
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">true</item>
+
+    </style>
+
+    <style name="AppTheme.Parte3" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:windowBackground">@color/color9</item>
+        <item name="android:textColorPrimary">@color/color10</item>
+        <item name="colorButtonNormal">@color/color1</item>
+        <item name="colorSwitchThumbNormal">@color/color2</item>
+        <item name="android:fontFamily">sans-serif-smallcaps</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:background">@color/background3</item>
+
+
+        <!-- Used by MediaRouter -->
+        <item name="isLightTheme">false</item>
+
+
+    </style>
 </resources>

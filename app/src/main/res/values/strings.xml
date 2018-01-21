@@ -1,5 +1,19 @@
 <resources>
-    <string name="app_name">ActividadDINT3</string>
+    <string name="app_name">Actividad Roberto y Carlos</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">  HOLA MUNDO DE PARTE DE ROBERTO Y CARLOS</string>
+    <string name="btnACEPTAR">ACEPTAR</string>
+    <string name="btnCOMENTAR">COMENTAR</string>
+    <string name="btnENVIAR">ENVIAR</string>
+    <string name="txt1">  Sientase libre de enviar un comentario para mejorar nuestra plataforma</string>
+    <string name="txt2">  Al presionar el boton comentar se hará publico este comentario</string>
+    <string name="txt3">  Al presionar el boton aceptas nuestros terminos y condiciones</string>
+    <string name="edit1">Nombre usuario</string>
+    <string name="edit2">Introduzca un comentario</string>
+    <string name="edit3">ESCRIBA AQUI</string>
+
 </resources>
