@@ -56,4 +56,10 @@ public class MainActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
+    /**
+     * Commit final
+     * Testeo final de la app en el samsung 8 de Roberto
+     * funciona ok
+     */
 }
