@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+
 <resources>
+
     <color name="colorPrimary">#b53f94</color>
     <color name="colorPrimaryDark">#308e9f</color>
     <color name="colorAccent">#af1f50</color>
+
+    /**
+    * Creo colores base para utilizarlos en estilos de texto, backgronds..etc, y asi hacelos reutilizables
+
+    */
 
     <color name="background1">#a1cfe9</color>
     <color name="background2">#367174</color>

@@ -4,7 +4,10 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_main2">Main2Activity</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
+    /**
+    * Creo los strings con el contenido de botoes, textos, editables... y se lo paso en foram de string a cada uno de
+    * los elementos, de esta forma reutilizamos el contenido
+    */
     <string name="hello_blank_fragment">  HOLA MUNDO DE PARTE DE ROBERTO Y CARLOS</string>
     <string name="btnACEPTAR">ACEPTAR</string>
     <string name="btnCOMENTAR">COMENTAR</string>
